@@ -1,0 +1,27 @@
+{
+  "name": "sadadpayment",
+  "version": "1.0.0",
+  "description": "With this package you can use sadad payment gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futechgroup/sadadPayment.git"
+  },
+  "keywords": [
+    "sadad",
+    "peyment"
+  ],
+  "author": "S.M.Shobeiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futechgroup/sadadPayment/issues"
+  },
+  "homepage": "https://github.com/futechgroup/sadadPayment#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "request": "^2.88.0"
+  }
+}
